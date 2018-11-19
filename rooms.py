@@ -34,7 +34,8 @@ for room_key in rooms.keys():
     rstudents = random.sample(students, capacity)
     file_contents = file_contents + rstudents
     file_contents.append('\n')
-    filter(lambda x: students.pop(students.index(x)), rstudents)
+    for rs in rstudents:
+        students.pop(students.index(rs))
     rooms[room_key]['students'] = rstudents
 file_contents = '\n'.join(file_contents)
 
