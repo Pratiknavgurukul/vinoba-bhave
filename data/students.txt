@@ -7,7 +7,7 @@ Sanjeev Kumar
 Pralhad Jadav
 Ajay Dohre
 Ajay Udayan
-Anurag Rawat
+Shahid
 Bhavnesh Chamare
 Ranjeet Raj
 Pratik Deshmukh
@@ -42,3 +42,6 @@ Md Aijaj
 Anurag Rawat
 Mahendra Rathore
 Hemant Singh Gurjar
+Sumit
+Yognedra Meena
+Kapil
