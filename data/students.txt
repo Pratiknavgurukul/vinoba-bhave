@@ -5,20 +5,17 @@ Tarun Halder
 Sunil Parcha
 Sanjeev Kumar
 Pralhad Jadav
-Ajay Dohre
 Ajay Udayan
 Shahid
 Bhavnesh Chamare
 Ranjeet Raj
 Pratik Deshmukh
 Raushan Kumar
-Md Azad
 Shubham Pundir
 Prakash Simhadri
 Jagannath
 Satyam
 Yogesh Warathe
-Deepanshu Verma
 Hariom Maurya
 Abhijeet Holkar
 Anand Patel
@@ -45,3 +42,10 @@ Hemant Singh Gurjar
 Sumit
 Yognedra Meena
 Kapil
+Sushant Sindhe
+Sanjay Kumar
+Adil Raza
+Prince Kumar
+Vishal Gaddam
+Prashant Pandey
+Atul Kishore
