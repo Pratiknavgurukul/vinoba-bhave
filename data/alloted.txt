@@ -1,74 +1,54 @@
-# Room 1
-Shahid
-Hemant Singh Gurjar
-Chirag Agarwal
-Ajay Udayan
-Jai Kishan
-
-
 # Room 6
-Yogesh Warathe
+Sandeep Pothpode
+Nitesh Sharma
+Tarun Halder
+Bhavnesh Chamare
+Vishal Gaddam
 Adil Raza
-Pratik Deshmukh
-Jai Prakash Patel
-Shubham Pundir
-Yognedra Meena
-Naresh Gautam
-Ranjeet Raj
-Pavan Vishwakarma
-Sushant Sindhe
 
 
 # Room 7
+Pralhad Jadav
 Sanjeev Kumar
-Mahendra Rathore
-Atul Kishore
+Sanjay Kumar
 Rahul Joshi
-Satyam
-Md Aijaj
 
 
 # Room 8
-Prince Kumar
-Kapil
 Sunil Parcha
-Rahul Kumar
-Vishal Gaddam
-Prashant Pandey
+Prakash Simhadri
+Yogendra
+Ranjeet Raj
 
 
 # Room 9
-Raushan Kumar
-Sandeep Pothpode
-Saquib Nasim
-Bhavnesh Chamare
+Yogesh Warathe
+Satyam
+Rahul Kumar
+Sushant Sindhe
 
 
 # Room 10
-Hariom Maurya
-Aman Sharma
-Vishwanath
-Abhijeet Holkar
-Anurag Rawat
-Tarun Halder
-
-
-# Room 11
+Saquib Nasim
+Prince Kumar
+Aman Jha
+Shahid
 Rohit Yadav
-Yogendra
-Sumit
-Nitesh Sharma
-Anand Patel
 Akhil Rawat
 
 
-# Room 12
-Sanjay Kumar
-Prakash Simhadri
-Pradeep Kumar
+# Room 11
 Jagannath
-Sourav Kumar Somal
-Pralhad Jadav
+Anand Patel
+Shubham Pundir
+Aman Sharma
+
+
+# Room 12
+Abhijeet Holkar
+Anurag Rawat
 Anoop Gupta
-Aman Jha
+Md Aijaj
+Ajay Udayan
+Pradeep Kumar
 
