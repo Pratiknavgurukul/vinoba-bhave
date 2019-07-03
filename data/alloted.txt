@@ -1,54 +1,53 @@
-# Room 6
-Sandeep Pothpode
-Nitesh Sharma
-Tarun Halder
-Bhavnesh Chamare
-Vishal Gaddam
-Adil Raza
-
-
-# Room 7
-Pralhad Jadav
-Sanjeev Kumar
-Sanjay Kumar
-Rahul Joshi
-
-
-# Room 8
-Sunil Parcha
-Prakash Simhadri
-Yogendra
-Ranjeet Raj
-
-
-# Room 9
-Yogesh Warathe
-Satyam
-Rahul Kumar
-Sushant Sindhe
+# Room 11
+Md Aijaj
+Rahit
+Prabhakar
+Yusuv
+Pratik
 
 
 # Room 10
-Saquib Nasim
-Prince Kumar
+Praveen
+Dhananjay
 Aman Jha
-Shahid
-Rohit Yadav
 Akhil Rawat
-
-
-# Room 11
-Jagannath
-Anand Patel
-Shubham Pundir
-Aman Sharma
+Satyam
 
 
 # Room 12
-Abhijeet Holkar
-Anurag Rawat
-Anoop Gupta
-Md Aijaj
-Ajay Udayan
-Pradeep Kumar
+Vivek
+Sanjeev Kumar
+Anand Patel
+Vishal Modi
+Kapil
+Adil Raza
+Yogesh New
+Sanjay Kumar
+
+
+# Room 7
+Yogesh Warathe
+Jagannath
+Paramthaman
+Pavan Puniya
+Shahid
+
+
+# Room 6
+Yogendra
+Pavan Viskarma
+Prakash Simhadri
+Akhilesh
+Rahul Kumar
+Prince Kumar
+Tapas
+Hemant
+
+
+# Room 8
+Rohit Yadav
+Tariq
+Kritiv
+Sandeep Pothpode
+Saquib Nasim
 
